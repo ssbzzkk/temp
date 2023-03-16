@@ -3,3 +3,11 @@
 *.class 
 
 index.txt
+
+*.a
+
+/TODO
+build/
+doc/*.txt
+
+doc//**/*pdf
